@@ -75,6 +75,7 @@ footer {
 }
 
 .footer-link {
+  border: 1px solid white;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -83,10 +84,10 @@ footer {
   border-radius: 100%;
 }
 
-.previous{
- 
+.previous {
+ border: 8px solid white;
 }
 
 .next {
- border: 1px solid red;
+ border: 8px solid white;
 }
